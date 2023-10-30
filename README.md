@@ -18,18 +18,18 @@ This project aims to familiarize with existing packages for Geospatial and tryin
 - Utilities
     - gsw : Gibbs Seawater (GSW) Oceanographic Toolbox. It is Python implementation of the Thermodynamic Equation of Seawater 2010 (TEOS-10) is based primarily on numpy ufunc wrappers of the GSW-C implementation.
     - tqdm :
-    - zarr :
+    - zarr : Zarr is a file storage format for chunked, compressed, N-dimensional arrays based on an open-source specification.
 
 - Performances
-    - dask : 
-    - distributed :
+    - dask : Dask is an open-source Python library for parallel computing. Dask scales Python code from multi-core local machines to large distributed clusters in the cloud. (https://www.dask.org/)
+    - distributed : A library for distributed computation ()
     - pyarrow : Apache Arrow is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to store, process and move data fast. The Arrow Python bindings (also named “PyArrow”) have
                 first-class integration with NumPy, pandas, and built-in Python objects. They are based on the C++ implementation of Arrow.
 
 - Visualisation
-    - IPython
-    - cartopy: Cartopy makes use of the powerful PROJ, NumPy and Shapely libraries and includes a programmatic interface built on top of Matplotlib for the creation of publication quality maps.
-    - ipykernel
-    - ipywidgets
-    - matplotlib
-    - seaborn
+    - IPython : IPython provides a rich toolkit to help you make the most of using Python interactively
+    - Cartopy : Cartopy makes use of the powerful PROJ, NumPy and Shapely libraries and includes a programmatic interface built on top of Matplotlib for the creation of publication quality maps.
+    - Ipykernel : The IPython kernel is the Python execution backend for Jupyter (https://ipython.readthedocs.io/)
+    - Ipywidgets : Jupyter Widgets are interactive browser controls for Jupyter notebooks. (https://ipywidgets.readthedocs.io/)
+    - Matplotlib : Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.  (https://matplotlib.org/)
+    - Seaborn : Seaborn is a high level interface for drawing statistical graphics with Matplotlib.
