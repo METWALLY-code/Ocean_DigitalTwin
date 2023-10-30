@@ -17,7 +17,7 @@ This project aims to familiarize with exsisting packages for Geospatial and tryi
 - fsspec: Filesystem interfaces for Python ()
 
 - Utilities
-    - gsw :
+    - gsw : Gibbs Seawater (GSW) Oceanographic Toolbox. It is Python implementation of the Thermodynamic Equation of Seawater 2010 (TEOS-10) is based primarily on numpy ufunc wrappers of the GSW-C implementation.
     - tqdm :
     - zarr :
 
